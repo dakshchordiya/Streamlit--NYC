@@ -13,12 +13,11 @@ plotly==4.0.0  <br />
 
 Project Structure :
 
-Task 1: Project Overview and Demo  <br />
+Task 1: Load the Motor Vehicle Collisions Data  <br />
 Task 2: Turn Simple Python Scripts into Web Apps  <br />
-Task 3: Load the Motor Vehicle Collisions Data  <br />
-Task 4: Visualize Data on a Map  <br />
-Task 5: Filtering Data and Interactive Tables  <br />
-Task 6: Plot Filtered Data on a 3D Interactive Map <br />
-Task 7: 3D Interactive Map (continued)  <br />
-Task 8: Charts and Histograms  <br />
-Task 9: Select Data Using Dropdowns  <br />
+Task 3: Visualize Data on a Map  <br />
+Task 4: Filtering Data and Interactive Tables  <br />
+Task 5: Plot Filtered Data on a 3D Interactive Map <br />
+Task 6: 3D Interactive Map (continued)  <br />
+Task 7: Charts and Histograms  <br />
+Task 8: Select Data Using Dropdowns  <br />
